@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+}
+h1 {
+    color: rgb(116, 15, 102);
+    font-size: 24px;
+    font-family: 'Rubik Burned', cursive;
+}
+p{
+    text-align: center;
+    color: rgb(243, 12, 139);
+}
+#texto1{
+    color: coral;
+    font-family: 'Aboreto', cursive;
+    font-size: 1.5 em;
+}
+#texto2{
+    color: rgb(45, 146, 241);
+    font-size: 2em;
+}
+.cuadro{
+    background-color:darkred;
+    width: 100px;
+    height: 100px;
+    margin: 100px;
+}
+#cuadro1:hover{
+    background-color: papayawhip;
+}
+ul li:first-child{
+    color: rgb(58, 243, 52);
+}
+#input1:focus{
+    background-color: goldenrod;
+}
+span{
+    padding: 30px;
+    margin: 10px;
+    display: block;
+}
+.spanAmarillo{
+    background-color: #2f0480;
+    color: yellow;
+}
+.spanEsmeralda{
+    background-color: rgb(241, 253, 74);
+    color: rgba(0, 200, 10, 80);
+}
+.spanIndigo{
+    background-color: black;
+    color: #ff6689;
+}
+h3{
+    color: aquamarine;
+    font-size: 3em;
+}
+.contenedor{
+    width: 600px;
+    height: 400px;
+    border: 4px outset rgb(12, 79, 82);
+    border-radius: 300px;
+    background-image: url(./gatoazulruso.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
