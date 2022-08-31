@@ -14,6 +14,10 @@ p {
     align-items: initial;
 
 }
+table{
+    border: 1px solid black;
+}
+
 img{
     display: block;
     position: relative;
