@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    
+}
+.fila {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+.item1, .item2, .item3 {
+    flex: 1;
+}
+.item{
+    width: 300px;
+    height: 300px;
+    background-color: aquamarine;
+}

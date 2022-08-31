@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    flex-flow: row wrap;
+    background-color: aqua;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+    align-content: flex-end;
+}
+.item{
+    align-content: center;
+    background-color: gray;
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+}

@@ -174,3 +174,48 @@ h3{
   'GRAD' 0,
   'opsz' 48
 }
+.name{
+    text-align: center;
+    text-decoration-line: line-through;
+}
+.t1 {
+    word-spacing: 5px;
+    line-height: 20px;
+    text-shadow: 2px 2px 9px red, 3px 4px 5px blue;
+    font-style: italic;
+}
+.t2{
+    font-size: 28px;
+    font-style: italic;
+    font-weight: 600;
+}
+.lista{
+    margin-left: 30px;
+    list-style-type: lower-alpha;
+}
+#customers{
+    border-collapse: collapse;
+    width: 100%;
+}
+#customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+#customers tr:hover {
+    background-color: #ddd;    
+}
+#customers th{
+    padding: 12px 0;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+}
+h6{
+    color: yellow;
+}
+.player{
+    color: red;
+}
+#jugador{
+    color: aquamarine;
+}
