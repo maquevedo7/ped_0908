@@ -1,0 +1,162 @@
+{
+    "Name": "KFA - Asociación de Fútbol de Corea",
+    "CountryName": "Corea del Sur",
+    "AlternativeNames": [
+        "Tigres de Asia",
+        "Tigres de Oriente",
+        "Guerreros Taeguk",
+        "Los Diablos Rojos",
+        "El Ejército Rojo"
+    ],
+    "Colors": [
+        {
+            "T-shirt": ["rojo", "azul"]
+        },
+        {
+            "AlternativeColors": ["blanco", "azul", "rojo"]
+        }
+    ],
+    "WonTitles": ["Copa Asiática 1956", "Copa Asiática 1960"],
+    "CaptainName": "Son Heung-Min",
+    "CoachName": "Paulo Bento",
+    "Logo": "https://img.planetafobal.com/2020/02/tr-corea-del-sur-nuevo-escudo-oficial-2020-kfa.jpg",
+    "Abbreviation": "KFA",
+    "TopScorers": [
+        {
+            "Name": "Cha Bum-kun",
+            "Career": "1972-1986",
+            "Goals": "58",
+            "Matches": "136"
+        },
+        {
+            "Name": "Hwang Sun-hong",
+            "Career": "1988–2002",
+            "Goals": "50",
+            "Matches": "103"
+        },
+        {
+            "Name": "Park Lee-chun",
+            "Career": "1969–1974",
+            "Goals": "37",
+            "Matches": "91"
+        }
+    ],
+    "Stadium": {
+        "Name": "Estadio Mundialista de Seúl",
+        "NickName": "Choi Moon-Sik",
+        "Location": "240 Woldeukeom-ro, Mapo-gu, Seoul, Corea del Sur",
+        "Capacity": 66704
+    },
+    "Team": [
+        {
+            "Name": "Bum-keun",
+            "LastName": "Song",
+            "Age": 24,
+            "Height": 194,
+            "PlaceOfBirth": "Seongnam",
+            "Position": "Portero",
+            "CurrentClub": "Jeonbuk Hyundai",
+            "ShirtNumber": 31
+        },
+        {
+            "Name": "Min-jae",
+            "LastName": "Kim",
+            "Age": 25,
+            "Height": 190,
+            "PlaceOfBirth": "Tongyeong, Gyeongnam",
+            "Position": "Defensa central",
+            "CurrentClub": "Nápoles",
+            "ShirtNumber": 3
+        },
+        {
+            "Name": "Yu-min",
+            "LastName": "Cho",
+            "Age": 25,
+            "Height": 184,
+            "PlaceOfBirth": "Corea del sur",
+            "Position": "Defensa central",
+            "CurrentClub": "Daejeon Hana Citizen",
+            "ShirtNumber": 20
+        },
+        {
+            "Name": "Jin-su",
+            "LastName": "Kim",
+            "Age": 30,
+            "Height": 177,
+            "PlaceOfBirth": "Jeonju, Jeonbuk",
+            "Position": "Lateral izquierdo",
+            "CurrentClub": "Jeonbuk Hyundai",
+            "ShirtNumber": 23
+        },
+        {
+            "Name": "Tae-hwan",
+            "LastName": "Kim",
+            "Age": 33,
+            "Height": 180,
+            "PlaceOfBirth": "Gwangju",
+            "Position": "Lateral derecho",
+            "CurrentClub": "Ulsan Hyundai",
+            "ShirtNumber": 23
+        },
+        {
+            "Name": "Woo-young",
+            "LastName": "Jung",
+            "Age": 32,
+            "Height": 186,
+            "PlaceOfBirth": "Ulsan",
+            "Position": "Corea del Sur",
+            "CurrentClub": "Al-Sadd SC",
+            "ShirtNumber": 5
+        },
+        {
+            "Name": "In-beom",
+            "LastName": "Hwang",
+            "Age": 26,
+            "Height": 177,
+            "PlaceOfBirth": "Daejeon",
+            "Position": "Mediocentro",
+            "CurrentClub": "Olympiakos",
+            "ShirtNumber": 33
+        },
+        {
+            "Name": "Kang-in",
+            "LastName": "Lee",
+            "Age": 21,
+            "Height": 173,
+            "PlaceOfBirth": "Incheon",
+            "Position": "Mediocentro ofensivo",
+            "CurrentClub": "RCD Mallorca",
+            "ShirtNumber": 19
+        },
+        {
+            "Name": "Heung-min",
+            "LastName": "Son",
+            "Age": 30,
+            "Height": 184,
+            "PlaceOfBirth": "Chuncheon, Gangwon",
+            "Position": "Extremo izquierdo",
+            "CurrentClub": "Tottenham",
+            "ShirtNumber": 7
+        },
+        {
+            "Name": "Chang-hoon",
+            "LastName": "Kwon",
+            "Age": 28,
+            "Height": 173,
+            "PlaceOfBirth": "Seoul",
+            "Position": "Extremo derecho",
+            "CurrentClub": "Gimcheon Sangmu",
+            "ShirtNumber": 26
+        },
+        {
+            "Name": "Hee-chan",
+            "LastName": "Hwang",
+            "Age": 26,
+            "Height": 177,
+            "PlaceOfBirth": "Chuncheon, Gangwon",
+            "Position": "Delantero centro",
+            "CurrentClub": "Wolverhampton",
+            "ShirtNumber": 11
+        }
+    ]
+}
